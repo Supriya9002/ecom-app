@@ -1,0 +1,18 @@
+
+ Tue Mar 05 2024 12:09:08 GMT+0530 (India Standard Time) - /api/users/signup - {"name":"Prahallad","email":"prahallad@gmail.com","password":"Das123@","gender":"Male"} - [object Object]
+ Tue Mar 05 2024 12:10:53 GMT+0530 (India Standard Time) - /api/users/get-all-details - {} - [object Object]
+ Tue Mar 05 2024 12:12:54 GMT+0530 (India Standard Time) - /api/posts/ - {} - [object Object]
+ Sat Jul 27 2024 23:29:12 GMT+0530 (India Standard Time) - / - {} - [object Object]
+ Sat Jul 27 2024 23:29:12 GMT+0530 (India Standard Time) - /favicon.ico - {} - [object Object]
+
+
+
+ # For IPv6: 
+DB_URL = mongodb://localhost:27017/SocialMediaApp
+# For IPv4:DB_URL = mongodb://127.0.0.1:27017/ecomdb
+JWT_SECRET = GYA=t'-{%)E#|xZL7Ubk
+
+
+MONGO=mongodb+srv://user2000:test123@cluster0.alstmrz.mongodb.net/schoolmng?retryWrites=true&w=majority&appName=Cluster0
+JWT_SECRET=n9JU0zRyF0
+PORT=3000
